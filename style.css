@@ -9,6 +9,11 @@ div{
 .box1{
     border: 5px solid orangered;
     background-color: lightgoldenrodyellow;
+    width: 25%;
+}
+
+.box2{
+    width: 10rem;
 }
 p{
     border: 2px solid red;
